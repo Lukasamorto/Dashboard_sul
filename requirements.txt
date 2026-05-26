@@ -3,7 +3,6 @@ geopandas
 pydeck
 pandas
 numpy
-json
 base64
 warnings
 math
