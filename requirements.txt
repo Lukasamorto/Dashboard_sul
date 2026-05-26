@@ -3,7 +3,3 @@ geopandas
 pydeck
 pandas
 numpy
-base64
-warnings
-math
-pathlib
